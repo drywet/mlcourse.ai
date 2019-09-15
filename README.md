@@ -1,3 +1,14 @@
+## Assignments solutions
+
+https://github.com/drywet/mlcourse.ai/tree/marat/jupyter_english/assignments_fall2019
+
+- [x] Assignment 1
+- [ ] Assignment 2.opt1
+- [ ] Assignment 2.opt2
+- [ ] Assignment 2.part1
+
+---
+
 ## [mlcourse.ai](https://mlcourse.ai) – Open Machine Learning Course
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
